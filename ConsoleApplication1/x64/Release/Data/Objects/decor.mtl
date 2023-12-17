@@ -1,0 +1,62 @@
+# Blender MTL File: 'stade04.blend'
+# Material Count: 6
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\textures\photorealistic_floor\floor003.jpg
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\textures\photorealistic_bricks\brick001+(2).jpg
+
+newmtl Material.002
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\textures\photorealistic_bricks\brick003r.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\textures\photorealistic_bricks\brick026b.jpg
+
+newmtl Material.004
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd crate10b.bmp
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\DELL\\Documents\\jason_colomay\\OPENGL_DIRECTX\\directX9-soccergame\\textures\\photorealistic_floor\\floor003.jpg

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>D:\sauvegarde_jasoncolomay\projet_personnels\OPENGL_DIRECTX\directx11_soccergame\ConsoleApplication1\Debug\ConsoleApplication1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>D:\sauvegarde_jasoncolomay\projet_personnels\OPENGL_DIRECTX\directx11_soccergame\ConsoleApplication1\Debug\pixelshader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>D:\sauvegarde_jasoncolomay\projet_personnels\OPENGL_DIRECTX\directx11_soccergame\ConsoleApplication1\Debug\vertexshader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

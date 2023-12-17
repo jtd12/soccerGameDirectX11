@@ -1,0 +1,22 @@
+# Blender MTL File: 'stade04.blend'
+# Material Count: 2
+
+newmtl Material.006
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.626661 0.626661 0.626661
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\src\data\stadium.bmp
+
+newmtl Material.006_nmodel_10_27_stadium_diff.bmp
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.626661 0.626661 0.626661
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\DELL\Documents\jason_colomay\OPENGL_DIRECTX\directX9-soccergame\opengl soccergame_OpenglModern\src\data\nmodel_10_27_stadium_diff.bmp
